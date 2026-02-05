@@ -73,6 +73,8 @@ FreeSolv was originally compiled with experimental measurements drawn from liter
 - Matplotlib, Seaborn
 
 
+## NOTE : RESULTS MAY CHANGE SLIGHTLY BECAUSE OF THE SHUFFLING IN DATASET , RANDOMISED WEIGHTS BY PYTORCH. I HAVE MENTIONED THE RESULTS BASED ON MY FINAL TRAINING 
+
 
 
 
